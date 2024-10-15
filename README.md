@@ -30,3 +30,7 @@
 
 ## Resource:
 - MorphoSource. 3D data repository. Contains CT scans. Has an API
+
+- TO READ (Maybe interesting maybe not):
+    - https://academic.oup.com/bfg/article/15/4/315/2412044
+    - https://www.nature.com/articles/s41576-020-00304-w 
