@@ -12,13 +12,14 @@
 ## Challenges:
 - testing
 - functional variation vs taxonomic variation
+    - solution: band pass filter based on irrelevant nearby cis-regulatory regions??
 - phenotype -genotype connection
 - environmental plasticity
 - Quantifying structural changes
 
 ## Short-term goals
 - Identify project goal (Lol)
-    - generate minimum changes to reach target structure spec
+    - generate minimum sequence changes to reach target structure spec
         - overly ambitious
         - impossible to test
     - 
@@ -30,7 +31,8 @@
 
 ## Resource:
 - MorphoSource. 3D data repository. Contains CT scans. Has an API
-
+- Gephebase -- collection of mutations and resulting phenotypes. Small but useful starting point
+    - https://www.gephebase.org/search-criteria?/and+Trait=Limb%20length#gephebase-summary-title 
 - TO READ (Maybe interesting maybe not):
     - https://academic.oup.com/bfg/article/15/4/315/2412044
     - https://www.nature.com/articles/s41576-020-00304-w 
