@@ -32,7 +32,9 @@
 ## Resource:
 - MorphoSource. 3D data repository. Contains CT scans. Has an API
 - Gephebase -- collection of mutations and resulting phenotypes. Small but useful starting point
-    - https://www.gephebase.org/search-criteria?/and+Trait=Limb%20length#gephebase-summary-title 
+    - https://www.gephebase.org/search-criteria?/and+Trait=Limb%20length#gephebase-summary-title
+- https://browse.welch.jhmi.edu/datasets/genomic-databases
+- https://www.ncbi.nlm.nih.gov/gap/advanced_search/
 - TO READ (Maybe interesting maybe not):
     - https://academic.oup.com/bfg/article/15/4/315/2412044
     - https://www.nature.com/articles/s41576-020-00304-w 
