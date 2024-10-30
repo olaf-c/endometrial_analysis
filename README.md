@@ -1,4 +1,4 @@
-# Re-contextualization of the Human Endometrial Cell Map
+# Re-contextualization of the Human Endometrial Cell Atlas
 
 ## Contributors:
  - Garrett
