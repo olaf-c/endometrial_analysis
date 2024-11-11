@@ -6,7 +6,9 @@
 
 ## Utilizing a Python Pipeline to Analyze an Integrated Dataset
 
-
+## Code Flow
+- Read in with scanpy as sc
+- 
 
 ## Resources
 - SciVi
