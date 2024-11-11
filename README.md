@@ -7,7 +7,16 @@
 ## Utilizing a Python Pipeline to Analyze an Integrated Dataset
 
 ## Code Flow
-- Read in with scanpy as sc
+- Data Input
+    - Download data from (biostudies)[https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-14039] repository.
+    - Extract files
+    - Convert 10x_mtx files into hd5a files and from CSC format to CSR format
+    - Concatenate on disk (to save memory)
+- Data cleanup and integration
+    - Normalization
+    - Regression of mitochondrial/cell cycling related noise
+    - Management of batch effects (potentially through SciVi)
+- SCENIC
 - 
 
 ## Resources
